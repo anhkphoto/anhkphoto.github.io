@@ -56,7 +56,7 @@ section {
 
 ::-moz-selection {
   color: #fff;
-  background: #212529;
+  background: #565656;
   text-shadow: none; }
 
 ::selection {
@@ -124,7 +124,7 @@ body {
           color: #fff; }
       #mainNav.navbar-shrink {
         border-bottom: 1px solid rgba(33, 37, 41, 0.1);
-        background-color: #212529; }
+        background-color: #2e3338; }
         #mainNav.navbar-shrink .navbar-brand {
           color: #a3abb3; }
           #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
