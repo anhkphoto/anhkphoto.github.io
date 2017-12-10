@@ -96,16 +96,7 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: #c5c5c5; }
-    #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
-    #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-      color: #c5c5c5; }
-    #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
-    #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-      color: #c5c5c5 !important;
-      background-color: transparent; }
-      #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
-      #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
-        background-color: transparent; }
+
   @media (min-width: 992px) {
     #mainNav {
       border-color: transparent;
@@ -113,7 +104,7 @@ body {
       #mainNav .navbar-brand {
         color: #c5c5c5; }
         #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-          color: #c5c5c5; }
+          color: #fff; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link {
         padding: 0.5rem 1rem; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link,
@@ -121,20 +112,20 @@ body {
         color: #c5c5c5; }
         #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
         #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-          color: #c5c5c5; }
+          color: #fff; }
       #mainNav.navbar-shrink {
         border-bottom: 1px solid rgba(33, 37, 41, 0.1);
         background-color: #2e3338; }
         #mainNav.navbar-shrink .navbar-brand {
           color: #c5c5c5; }
           #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
-            color: #c5c5c5; }
+            color: #fff; }
         #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
         #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
           color: #c5c5c5; }
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-            color: #c5c5c5; } }
+            color: #fff; } }
 
 header.masthead {
   padding-top: 10rem;
