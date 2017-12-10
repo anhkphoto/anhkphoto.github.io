@@ -76,8 +76,8 @@ body {
   -webkit-tap-highlight-color: #212529; }
 
 #mainNav {
-  border-bottom: 1px solid rgba(33, 37, 41, 0);
-  background-color: #fff;
+  border-bottom: 1px solid rgba(255, 255, 255, 0);
+  background-color: #212529;
   font-family: 'Cinzel', 'Times New Roman', serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -85,23 +85,23 @@ body {
   #mainNav .navbar-brand {
     font-weight: 700;
     text-transform: uppercase;
-    color: #212529;
+    color: #c5c5c5;
     font-family: 'Cinzel', 'Times New Roman', serif; }
     #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #212529; }
+      color: #c5c5c5; }
   #mainNav .navbar-nav > li.nav-item > a.nav-link,
   #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
     font-size: .9rem;
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: #212529; }
+    color: #c5c5c5; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
     #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
       color: #fff; }
     #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
     #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active {
-      color: #fff !important;
+      color: #c5c5c5 !important;
       background-color: transparent; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover,
       #mainNav .navbar-nav > li.nav-item > a.nav-link:focus.active:hover {
