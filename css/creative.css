@@ -83,7 +83,7 @@ body {
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   #mainNav .navbar-brand {
-    font-weight: 700;
+    font-weight: 400;
     text-transform: uppercase;
     color: #c5c5c5;
     font-family: 'Cinzel', 'Times New Roman', serif; }
