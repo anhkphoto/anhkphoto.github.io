@@ -209,26 +209,39 @@ header.masthead {
   color: #F05F40 !important; }
 
 .btn {
-  font-weight: 400;
-  text-transform: uppercase;
+  border-radius: 5px;
   border: none;
   padding: 1rem 2rem;
-  border-radius: 5px;
+  background-color: rgba(33, 37, 41, 0.8);
+  border-color: #212529;
   font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2}
+  .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    color: #fff;
+    background-color: rgba(33, 37, 41, 0.8) !important; }
+  .btn-primary:active, .btn-primary:focus {
+    box-shadow: 0 0 0 0rem rgba(255, 255, 255, 0) !important; }
 
 .btn-xl {
-  border-radius: 100px;
   border-radius: 5px;
   border: none;
   padding: 1rem 2rem;
+  background-color: rgba(33, 37, 41, 0.8);
+  border-color: #212529;
   font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2}
+  .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+    color: #fff;
+    background-color: rgba(33, 37, 41, 0.8) !important; }
+  .btn-primary:active, .btn-primary:focus {
+    box-shadow: 0 0 0 0rem rgba(255, 255, 255, 0) !important; }
+
 
 .btn-primary {
   border-radius: 5px;
   border: none;
   padding: 1rem 2rem;
   background-color: rgba(33, 37, 41, 0.8);
-  border-color: #212529; }
+  border-color: #212529;
+  font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
     background-color: rgba(33, 37, 41, 0.8) !important; }
