@@ -226,11 +226,13 @@ header.masthead {
   background-color: rgba(33, 37, 41, 0.9);
   border-color: #212529;
   font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2;
-  }
+  outline: none !important;
+  box-shadow: none !important;}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
     background-color: rgba(33, 37, 41, 0.8) !important;
-    }
+    outline:none !important;
+    box-shadow:none !important;}
 
 .btn-xl {
   border-radius: 5px;
@@ -239,11 +241,13 @@ header.masthead {
   background-color: rgba(33, 37, 41, 0.9);
   border-color: #212529;
   font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2;
-  }
+  outline:none !important;
+  box-shadow:none !important;}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
     background-color: rgba(33, 37, 41, 0.8) !important;
-    }
+    outline:none !important;
+    box-shadow:none !important;}
 
 
 .btn-primary {
@@ -253,8 +257,10 @@ header.masthead {
   background-color: rgba(33, 37, 41, 0.9);
   border-color: #212529;
   font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2;
-  }
+  outline:none !important;
+  box-shadow: none !important;}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color:#fff;
     background-color: rgba(33, 37, 41, 0.9) !important;
-    }
+    outline: none !important;
+    box-shadow: none !important;}
