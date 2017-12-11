@@ -106,8 +106,10 @@ body {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    color: #c5c5c5; }
+    color: #c5c5c5;
+    padding: 1rem 0rem; }
 
+/* These few lines remove outline of Navbar toggler */
     .navbar-toggler, .navbar-toggler-right {
     border: none !important;
     outline: none !important;
