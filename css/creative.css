@@ -107,9 +107,13 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: #c5c5c5; }
-.navbar-default {
-  border-color: transparent;}
 
+    .navbar-toggler, .navbar-toggler-right {
+    border: none !important;
+    outline: none !important;
+    }
+
+/* Below is navbar style for large screens */
   @media (min-width: 992px) {
     #mainNav {
       border-color: transparent;
