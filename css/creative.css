@@ -217,7 +217,7 @@ header.masthead {
       font-size: 22px; } }
 
 .text-primary {
-  color: #F05F40 !important; }
+  color: #fff !important; }
 
 .btn {
   border-radius: 5px;
@@ -225,12 +225,15 @@ header.masthead {
   padding: 1rem 2rem;
   background-color: rgba(33, 37, 41, 0.9);
   border-color: #212529;
-  font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2}
+  font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2;
+  outline: none;}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
-    background-color: rgba(33, 37, 41, 0.8) !important; }
+    background-color: rgba(33, 37, 41, 0.8) !important;
+    outline: none;}
   .btn-primary:active, .btn-primary:focus {
-    box-shadow: 0 0 0 0rem rgba(255, 255, 255, 0) !important; }
+    box-shadow: 0 0 0 0rem rgba(255, 255, 255, 0) !important;
+    outline: none;}
 
 .btn-xl {
   border-radius: 5px;
@@ -238,12 +241,15 @@ header.masthead {
   padding: 1rem 2rem;
   background-color: rgba(33, 37, 41, 0.9);
   border-color: #212529;
-  font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2}
+  font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2;
+  outline: none;}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
-    background-color: rgba(33, 37, 41, 0.8) !important; }
+    background-color: rgba(33, 37, 41, 0.8) !important;
+    outline: none;}
   .btn-primary:active, .btn-primary:focus {
-    box-shadow: 0 0 0 0rem rgba(255, 255, 255, 0) !important; }
+    box-shadow: 0 0 0 0rem rgba(255, 255, 255, 0) !important;
+    outline: none;}
 
 
 .btn-primary {
@@ -252,9 +258,12 @@ header.masthead {
   padding: 1rem 2rem;
   background-color: rgba(33, 37, 41, 0.9);
   border-color: #212529;
-  font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2}
+  font-family: 'Cinzel', 'Times New Roman', serif; color: #d2d2d2;
+  outline: none;}
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
     color: #fff;
-    background-color: rgba(33, 37, 41, 0.8) !important; }
+    background-color: rgba(33, 37, 41, 0.8) !important;
+    outline: none; }
   .btn-primary:active, .btn-primary:focus {
-    box-shadow: 0 0 0 0rem rgba(255, 255, 255, 0) !important; }
+    box-shadow: 0 0 0 0rem rgba(255, 255, 255, 0) !important;
+    outline: none; }
