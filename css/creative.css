@@ -213,7 +213,7 @@ header.masthead {
   position: relative;
   display: block;
   max-width: 650px;
-  margin: 0 auto; }
+  margin: 3px; }
 
 
 
@@ -229,7 +229,8 @@ header.masthead {
     background: rgba(0, 0, 0, 0.8);
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
-    transition: all 0.2s; }
+    transition: all 0.2s;
+    }
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content {
       position: absolute;
       top: 50%;
