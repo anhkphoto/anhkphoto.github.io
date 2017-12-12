@@ -1,3 +1,9 @@
+This is the website of my photography portfolio. I use the template [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/).
+
+I have never written a proper website before, so please forgive me if the codes are messy.
+
+Below is the default README.md of the template I use. 
+
 # [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
