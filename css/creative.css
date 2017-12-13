@@ -19,14 +19,15 @@ hr {
 hr.light {
   border-color: #fff; }
 
-/* This is the style for the email address at the bottom */
+/* This is the style for any hyperlink */
 a {
-  color: #fff;
+  color: #999;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:hover {
-    color: #fff; }
+    color: #ddd;
+    text-decoration: none; }
 
 /* h1 for website main title*/
 h1 {
