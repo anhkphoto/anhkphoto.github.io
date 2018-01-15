@@ -32,7 +32,7 @@ a {
 /* h1 for website main title*/
 h1 {
   font-family: 'Cinzel', 'Times New Roman', serif; letter-spacing: 0.2em;
-  
+
   }
 
 /* h2 for section headings*/
@@ -206,7 +206,7 @@ header.masthead {
         font-size: 3rem; } }
   @media (min-width: 1200px) {
     header.masthead h1 {
-      font-size: 4rem; } }
+      font-size: 3rem; } }
 
 .service-box {
   max-width: 400px; }
