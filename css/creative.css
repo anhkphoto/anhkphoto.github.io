@@ -45,7 +45,8 @@ h2 {
 h3 {
   font-family: 'Raleway','Arial', sans-serif; color: #bcbcbc !important;
   font-weight: 200;
-  font-size: 1.2em;}
+  font-size: 1.2em;
+  letter-spacing: 0.1em;}
 
 /* h4 for photo caption*/
 h4 {
