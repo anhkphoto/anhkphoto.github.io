@@ -42,7 +42,7 @@ h2 {
   }
 
 /* h3 for header subtitle*/
-@media (min-width: 768px) {
+@media (min-width: 1px) {
   h3 {
     font-family: 'Quicksand','Arial', sans-serif; color: #bcbcbc !important;
     font-weight: 200;
