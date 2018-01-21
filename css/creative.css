@@ -50,7 +50,7 @@ h2 {
     }
   }
 
-@media (min-width: 1200px) {
+@media (min-width: 1100px) {
   h3 {
     font-family: 'Quicksand','Arial', sans-serif; color: #bcbcbc !important;
     font-weight: 200;
